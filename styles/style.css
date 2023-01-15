@@ -209,21 +209,21 @@ button {
 }
 .futureInfo--img img {
   width: 100%;
-  height: auto;
+  height: 850px;
 }
 .future-info-btn {
-  max-width: 342px;
-  max-height: 200px;
+  max-width: 300px;
+  max-height: 150px;
   position: absolute;
-  bottom: 15%;
-  left: 52%;
-  padding: 46px 42px;
+  bottom: -5%;
+  left: 42%;
+  padding: 40px 30px;
   font-weight: 700;
 }
 .future-info-btn h1 {
   font-weight: 700;
-  font-size: 65px;
-  line-height: 70px;
+  font-size: 50px;
+  line-height: 50px;
 }
 /* ::::::::::::::::::::::::::::::::::::
             love__info end 
